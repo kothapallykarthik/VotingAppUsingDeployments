@@ -16,6 +16,6 @@ spec:
     port: 80
 
   selector:
-    name: result-app-deployment
-    app: voting-app-usingdep
+    name: result-app-pod
+    app: voting-app-usingpods
 
