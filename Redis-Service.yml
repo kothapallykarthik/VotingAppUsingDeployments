@@ -16,6 +16,6 @@ spec:
     port: 6379
 
   selector:
-    name: redis-deplyment
-    app: voting-app-usingdep
+    name: redis-pod
+    app: voting-app-usingpods
 
